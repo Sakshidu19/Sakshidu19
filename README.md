@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-As an SDET (Software Development Engineer in Test), I specialize in ensuring the quality and reliability of software through rigorous testing and automation.
+Computer Science grad | Manual Testing Expert | 1yr Quality Analyst in StudyExperts | Test scenarios & cases | OpenCart tester | SQL, Java, Selenium, TestNG | Passionate about software quality.
 
 With proficiency in **Java, SQL, HTML, Manual Testing**, I am fully equipped to handle complex QA tasks.
 
