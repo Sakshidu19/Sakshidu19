@@ -19,6 +19,8 @@ Computer Science grad | Manual Testing Expert | 1yr Quality Analyst in StudyExpe
 
 With proficiency in **Java, SQL, HTML, Manual Testing**, I am fully equipped to handle complex QA tasks.
 
+As a **Quality Analyst** at Studyexperts, I played a crucial role in ensuring the software's reliability and functionality. I excelled in **manual testing**, creating detailed test scenarios and comprehensive **test cases**. I conducted thorough **smoke, functionality, and system testing** to find any defects. Additionally, I contributed to developing an automation framework in Java using Selenium and TestNG, making test automation more efficient. My dedication to both manual testing and automation played a significant role in delivering top-notch software solutions.
+
 As a **Subject Matter Expert (SME)** at Bartleby, my role involves providing in-depth knowledge and expertise in the field of computer science to help users to understand and excel in their work. Through my contributions, I helped over 500 users by solving more than 3000 queries related to software development and testing. My proficiency in the subject matter has allowed me to provide accurate and concise solutions to complex problems, helping users achieve their goals. My commitment to supporting users and sharing my knowledge has made a significant impact on the Bartleby community.
 
 Driven by a desire to learn and a willingness to take on new challenges, I am confident that my dedication, hard work, and attention to detail make me an asset to any team.  
